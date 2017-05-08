@@ -1,3 +1,6 @@
+[![security status](https://www.meterian.com/badge/gh/johnsblatter/drools/security)](https://www.meterian.com/report/gh/johnsblatter/drools)
+[![defect status](https://www.meterian.com/badge/gh/johnsblatter/drools/defect)](https://www.meterian.com/report/gh/johnsblatter/drools)
+
 Developing Drools and jBPM
 ==========================
 
